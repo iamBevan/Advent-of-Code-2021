@@ -9,7 +9,7 @@ const data: Data[] = [
     { direction: "forward", value: 2 },
 ];
 
-describe("Day 1", () => {
+describe("Day 2", () => {
     it("Part 1", () => {
         const result = PartOne(data);
 
