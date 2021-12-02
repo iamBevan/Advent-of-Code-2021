@@ -1,29 +1,19 @@
-# advent-of-code
+# 🎄 Advent of Code 2020 🎄
 
-## Project setup
-```
+## Summary
+
+## Running the code
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+```sh
+npm run test
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## Overview
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+| Day                                       | Name        | Stars |
+| ----------------------------------------- | ----------- | ----- |
+| [01](https://adventofcode.com/2021/day/1) | Sonar Sweep | ⭐⭐  |
